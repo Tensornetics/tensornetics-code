@@ -46,3 +46,25 @@ tensornetics-implementation/
 └── tests/                 # Test code directory
     └── tests.rs           # Test file
 ```
+```
+tensornetics-control-systems
+├── Cargo.toml
+├── src
+│   ├── bluetooth_collector.rs
+│   ├── fluidic_harmonizer.rs
+│   ├── main.rs
+│   ├── machine_learning_system.rs
+│   ├── natural_language_processor.rs
+│   ├── robotics_library.rs
+│   ├── tensor.rs
+│   ├── vectorized_database.rs
+│   └── mod.rs
+└── tests
+    ├── bluetooth_collector.rs
+    ├── fluidic_harmonizer.rs
+    ├── machine_learning_system.rs
+    ├── natural_language_processor.rs
+    ├── robotics_library.rs
+    ├── vectorized_database.rs
+    └── mod.rs
+```
